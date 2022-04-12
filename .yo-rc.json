@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "Team1"
+    },
+    "libraryName": "teamsWorkshop",
+    "generator-version": "3.5.0"
+  }
+}
